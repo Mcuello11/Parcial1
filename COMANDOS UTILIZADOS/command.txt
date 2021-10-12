@@ -1,0 +1,1 @@
+Copiar un archivo o carpeta en el directorio especificado (copy). Es bastante util para poderlo usar desde la terminal Att Miguel
